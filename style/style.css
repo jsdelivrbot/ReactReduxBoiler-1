@@ -1,0 +1,6 @@
+.firstComponent {
+	height: 80px;
+	width: 200px;
+	background-color: blue;
+	cursor: pointer;
+}
